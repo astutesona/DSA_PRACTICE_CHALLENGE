@@ -3,6 +3,6 @@ class Solution:
     return len(s)
 
 if __name__ ==" __main__":
-  obj= Solutioon()
+  obj= Solution()
   s="shreeshivaynamastubhayam"
   print(obj.findLength(s))
